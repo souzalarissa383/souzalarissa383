@@ -3,7 +3,7 @@
 ### Criei esse repositorio com objetivo de práticar e compartilhar o que venho aprendendo.
 
 - 💬 Sobre: Sou aluna do curso de Sistemas de Informação na Universidade Estácio de Sá, estou cursando 6° período no turno da noite. Sou uma pessoa bastante comunicativa. Como você verá, tenho pouco menos de 1 ano de  experiência prática codificando com as linguagens HTML, CSS e JavaScript.
-- 🔭 Atualmente trabalho como Estágiria de Desenvolvimento
+- 🔭 Atualmente trabalho como Estágiaria de Desenvolvimento Front - end
 - 🌱 Estudando atualmente: Javascript e React
 - Areas de Interesse: Desenvolvimento Front-End e Banco de Dados
     <div> 
