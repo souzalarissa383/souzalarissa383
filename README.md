@@ -5,7 +5,7 @@
 - 💬 Sobre: Sou aluna do curso de Sistemas de Informação na Universidade Estácio de Sá, estou cursando 6° período no turno da noite. Sou uma pessoa bastante comunicativa. Como você verá, tenho pouco menos de 1 ano de  experiência prática codificando com as linguagens HTML, CSS e JavaScript.
 - 🔭 Atualmente trabalho como Estágiaria de Desenvolvimento Front - end
 - 🌱 Estudando atualmente: Javascript e React
-- Areas de Interesse: Desenvolvimento Front-End e Banco de Dados
+- Areas de Interesse: Desenvolvimento Front-End 
     <div> 
       <h3>📫 Contato</h3>
       <a href="https://instagram.com/larissa.rdsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
