@@ -4,7 +4,7 @@
 
 - 💬 Sobre: Sou aluna do curso de Sistemas de Informação na Universidade Estácio de Sá, estou cursando 7° período no turno da noite. Sou uma pessoa bastante comunicativa. Como você verá, tenho um pouco mais de 1 ano de experiência codificando com as linguagens HTML, CSS e JavaScript.
 - 🔭 Atualmente trabalho como Estágiaria de Desenvolvimento Front - end
-- 🌱 Estudando atualmente: Javascript e ReactJs
+- 🌱 Estudando atualmente: Flexbox e ReactJs
 - Areas de Interesse: Desenvolvimento Front-End 
     <div> 
       <h3>📫 Contato</h3>
