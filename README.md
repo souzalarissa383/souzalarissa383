@@ -3,11 +3,9 @@
 ### Bem-vindo ao meu repositório, criado para compartilhar o que aprendo e desenvolvo!
  - 💬 **Sobre mim**: Sou formada em **Sistemas de Informação** pela Universidade Estácio de Sá e atualmente estou cursando **pós-graduação em Engenharia de Software**. Tenho mais de 3 anos de experiência em **desenvolvimento front-end**, com foco em criar interfaces dinâmicas, acessíveis e responsivas.
 
-- 🔭 **Experiência profissional**: Atualmente, atuo como Desenvolvedora Front-End. Já trabalhei com tecnologias como **HTML, CSS, JavaScript, React, Angular**, e também com ferramentas como **Bootstrap** e **SASS**. Além disso, tenho experiência em desenvolvimento full stack, utilizando **Python com Flask e Django**.
+- 🔭 **Experiência profissional**: Atualmente, atuo como Desenvolvedora Front-End. Já trabalhei com tecnologias como **HTML, CSS, JavaScript, React, Angular**, e também com ferramentas como **Bootstrap**,  **Tailwind CSS** e **SASS**.  Além disso, tenho experiência em desenvolvimento full stack, utilizando **Python com Flask e Django, além de Golang**.
 
-- 🌱 **Estudos recentes**: Estou sempre me atualizando! No momento, estou aprimorando meus conhecimentos em **React.js**, **design systems** e **desenvolvimento web responsivo**.
-
-- 🏷 **Áreas de interesse**: Desenvolvimento Front-End, Acessibilidade Web, Design Systems e Aplicações Full Stack.
+- 🏷 **Áreas de interesse**: Desenvolvimento Front-End, Desenvolvimento Full Stack.
     <div> 
       <h3>📫 Contato</h3>
       <a href="https://instagram.com/larissa.rdsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
