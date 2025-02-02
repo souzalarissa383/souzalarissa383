@@ -1,11 +1,11 @@
 ### Olá! Eu sou a Larissa Souza 👋
 
 ### Bem-vindo ao meu repositório, criado para compartilhar o que aprendo e desenvolvo!
- - 💬 **Sobre mim**: Sou formada em **Sistemas de Informação** pela Universidade Estácio de Sá e atualmente estou cursando **pós-graduação em Engenharia de Software**. Tenho mais de 3 anos de experiência em **desenvolvimento front-end**, com foco em criar interfaces dinâmicas, acessíveis e responsivas.
+ - 💬 **Sobre mim**: Sou formada em **Sistemas de Informação** pela Universidade Estácio de Sá e atualmente estou cursando **pós-graduação em Engenharia de Software**. Tenho mais de 3 anos de experiência em **desenvolvimento front-end**, com foco em criar interfaces dinâmicas, acessíveis e responsivas, além de desenvolvimento mobile com **React Native** e **Swift**.
 
-- 🔭 **Experiência profissional**: Atualmente, atuo como Desenvolvedora Front-End. Já trabalhei com tecnologias como **HTML, CSS, JavaScript, React, Angular**, e também com ferramentas como **Bootstrap**,  **Tailwind CSS** e **SASS**.  Além disso, tenho experiência em desenvolvimento full stack, utilizando **Python com Flask e Django, além de Golang**.
+- 🔭 **Experiência profissional**: Atualmente, atuo como Desenvolvedora Front-End. Já trabalhei com tecnologias como **HTML, CSS, JavaScript, React, React Native**, e também com ferramentas como **SASS** e **Tailwind CSS**. Tenho experiência no desenvolvimento de aplicativos móveis com **Swift** para iOS, além de desenvolvimento full stack, utilizando **Python com Flask e Django**.
 
-- 🏷 **Áreas de interesse**: Desenvolvimento Front-End, Desenvolvimento Full Stack.
+- 🏷 **Áreas de interesse**: Desenvolvimento Front-End, Desenvolvimento Mobile (React Native e Swift).
     <div> 
       <h3>📫 Contato</h3>
       <a href="https://instagram.com/larissa.rdsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -20,10 +20,9 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
   <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
 </div>
@@ -36,4 +35,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzalarissa383&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-    
