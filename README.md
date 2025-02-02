@@ -50,7 +50,7 @@ Minha experiência se estende para o desenvolvimento **mobile**, onde desenvolvo
 <div align="center">
   <a href="https://github.com/souzalarissa383">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=souzalarissa383&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzalarissa383&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souzalarissa383&layout=compact&langs_count=7&theme=dark&hide=html,css,sass,python,django"/>
   </a>
 </div>
 
